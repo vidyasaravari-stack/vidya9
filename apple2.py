@@ -1,4 +1,4 @@
-a = 15
+a = input("Enter a number")
 if a  >= 18:
 	print("eligible to vote")
 else:
